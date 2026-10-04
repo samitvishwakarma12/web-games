@@ -2,6 +2,8 @@
 
 A collection of small web games built using HTML, JavaScript, and Bootstrap.
 
+Deployed live at: https://samitvishwakarma12.github.io/web-games/
+
 The project is a collection of simple browser games, with more games being added over time.
 
 ## Games

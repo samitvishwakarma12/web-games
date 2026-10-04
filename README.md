@@ -2,7 +2,7 @@
 
 A collection of small web games built using HTML, JavaScript, and Bootstrap.
 
-The project is mainly a collection of simple games built for the web, with more games being added over time.
+The project is a collection of simple browser games, with more games being added over time.
 
 ## Games
 
@@ -17,6 +17,19 @@ Features:
 - Score card
 - Win/loss feedback
 
+### Rock Paper Scissors
+
+A classic Rock Paper Scissors game where the player competes against the computer.
+
+Features:
+- Rock, Paper, and Scissors choices
+- Random bot choices
+- Human and bot score tracking
+- Configurable number of rounds
+- Turn result feedback
+- Game winner display
+- Reset functionality
+
 ## Tech Stack
 
 - HTML
@@ -30,6 +43,7 @@ web-games/
 │
 ├── index.html
 ├── guess-the-number.html
+├── rock-paper-scissors.html
 └── README.md
 ````
 
